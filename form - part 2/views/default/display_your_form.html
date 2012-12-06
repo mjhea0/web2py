@@ -1,0 +1,14 @@
+{{extend 'layout.html'}}
+<br /><br /><br />
+<h1>Web Form</h1>
+<br />
+<p>Please enter your first and last names, and email address.<br />
+Please note: All attempts must be error free before any info is accepted.</p>
+<h2>Inputs:</h2>
+{{=form}}
+<h2>Submitted Fields:</h2>
+{{=BEAUTIFY(request.vars)}}
+<h2>Accepted Fields:</h2>
+{{=BEAUTIFY(form.vars)}}
+<h2>Errors:</h2>
+{{=BEAUTIFY(form.errors)}}
