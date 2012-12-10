@@ -41,7 +41,11 @@ Part 5
 
 Tutorial - learn how to modify the appearance and layout of the form
 - <a href="http://www.mherman.org/crash-course-in-web2py-part-5-modifying-the-appearance-and-deploying-the-web-form/" target="_blank">Tutorial</a>
-- Files: form - form - part 4
+- Files: form - part 4
+
+
+
+Cheers!
 
 
 
