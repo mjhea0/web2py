@@ -13,6 +13,7 @@ Part 1
 
 Learn how to install web2py on your local computer and deploy a basic app on a cloud platform in less than 10 minutes
 - <a href="http://www.mherman.org/crash-course-in-web2py-part-1/" target="_blank">Tutorial</a>
+- <a href="http://www.youtube.com/watch?feature=player_embedded&v=BXzqmHx6edY" target="_blank">Video</a>
 - No Files - follow along on the tutorial
 
 Part 2
