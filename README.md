@@ -20,25 +20,28 @@ Part 2
 
 Learn the basics of Model View Control (MVC) architecture and create a skeleton web form
 - <a href="http://www.mherman.org/crash-course-in-web2py-part-2-web-forms/" target="_blank">Tutorial</a>
-- 
+- Files: form - part 1
 
 Part 3
 ------
 
 Add data validation to your form
 - <a href="http://www.mherman.org/crash-course-in-web2py-part-3-form-validation/" target="_blank">Tutorial</a>
+- Files: form - part 2
 
 Part 4
 ------
 
 Learn how to easily manage records in the database
 - <a href="http://www.mherman.org/crash-course-in-web2py-part-4-managing-form-records/" target="_blank">Tutorial</a>
+- Files: form - part 3
 
 Part 5
 ------
 
 Tutorial - learn how to modify the appearance and layout of the form
 - <a href="http://www.mherman.org/crash-course-in-web2py-part-5-modifying-the-appearance-and-deploying-the-web-form/" target="_blank">Tutorial</a>
+- Files: form - form - part 4
 
 
 
