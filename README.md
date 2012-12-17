@@ -27,7 +27,7 @@ Part 3
 ------
 
 Add data validation to your form
-- <a href="http://mherman.org/crash-course-in-web2py-part-3-form-validation//" target="_blank">Tutorial</a>
+- <a href="http://mherman.org/blog/2012/12/06/crash-course-in-web2py-part-3-form-validation/" target="_blank">Tutorial</a>
 - Files: form - part 2
 
 Part 4
